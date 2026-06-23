@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data folders
+data/
+data_zips/
+
+# Temporary files
+*.tmp
+*.log
+
+# Model checkpoints - keep only the final selected model if needed
+# saved_models/*.pt
